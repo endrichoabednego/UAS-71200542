@@ -1,0 +1,5 @@
+com\uas\simplenotes\ListNotes.class
+com\uas\simplenotes\App.class
+com\uas\simplenotes\Notes.class
+com\uas\simplenotes\TextNotes.class
+com\uas\simplenotes\NoteException.class
